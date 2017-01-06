@@ -634,7 +634,7 @@ namespace TerraViewer
             new BodyAngles { poleRa =  40.589,    poleDec =  83.537,    primeMeridian =  38.90,   rotationRate =  810.7939024 }, // Saturn
             new BodyAngles { poleRa = 257.311,    poleDec = -15.175,    primeMeridian = 203.81,   rotationRate = -501.1600928 }, // Uranus
             new BodyAngles { poleRa = 299.36,     poleDec =  43.46,     primeMeridian = 253.18,   rotationRate =  536.3128492 }, // Neptune
-            new BodyAngles { poleRa = 132.993,    poleDec =  -6.163,    primeMeridian = 302.695,  rotationRate =   56.3625225 }, // Pluto
+            new BodyAngles { poleRa = 132.993,    poleDec =  -6.163,    primeMeridian = 302.695,  rotationRate =   -56.3625225 }, // Pluto
             new BodyAngles { poleRa = 269.9949,   poleDec =  66.5392,   primeMeridian =  38.3213, rotationRate =   13.17635815 }, // Moon
             new BodyAngles { poleRa = 268.05,     poleDec =  64.50,     primeMeridian = 200.39,   rotationRate =  203.4889538 }, // Io
             new BodyAngles { poleRa = 268.08,     poleDec =  64.51,     primeMeridian =  36.022,  rotationRate =  101.3747235 }, // Europa
